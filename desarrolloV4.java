@@ -8,4 +8,6 @@ SEguimos trabajando en la rama develop desde LOCAL v4.3
 
   Seguimois trabajando en la rama develop desde origin, nueva ver5sion v4.4
 
+  Seguimos trabajando en la rama develop desde origin, nueva version v4.5
+
   
